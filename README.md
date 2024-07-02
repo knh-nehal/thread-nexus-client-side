@@ -17,9 +17,6 @@ something through announcement section.
 - React
 - JavaScript
 - Tailwind CSS
-- MongoDB
-- Express.js
-- Node.js
 - Axios
 - Tanstack Query
 
