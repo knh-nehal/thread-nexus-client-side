@@ -20,7 +20,7 @@ something through announcement section.
 - Axios
 - Tanstack Query
 
-### To Run Locally
+## To Run Locally
 
 1. **Clone the repository:**
 
